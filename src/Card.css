@@ -1,0 +1,20 @@
+body{
+  width: 30%;
+  align-content: center;
+  margin: auto;
+  padding-top: 5rem;
+  
+
+}
+
+@media (max-width: 800px) {
+  body{
+    width: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  body{
+    width: 70%;
+  }
+}
